@@ -22,7 +22,7 @@
 ![about](https://user-images.githubusercontent.com/88189918/231551002-bcddbf29-0bbb-4205-bc24-fe27cd0890b6.png)
 
 # Copyright 
-Copyright 2020 © Sowwyz#1337, can use it as you wish
+Copyright 2020 ©  , can use it as you wish
 
 </h2>
 <p align="center">
