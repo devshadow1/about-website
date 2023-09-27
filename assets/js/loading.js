@@ -36,8 +36,8 @@ function loadPage() {
 
 function showPage() {
     document.getElementById("loading").style.display = "none";
-    document.getElementById("canvas").style.opacity = 1;
-    document.getElementById("menu").style.display = "block";
+
+    window.location.href = "https://instagram.com/c3n4p/";
     startAnimation();
 
     // Reset onclick functions to nothing
