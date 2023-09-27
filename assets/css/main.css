@@ -107,14 +107,14 @@ html, body {
 #menu {
   font-family: "megrim", cursive;
   position: relative;
-  top: 20px;
+  top: 50%;
+  text-align: center;
   z-index: 1;
   display: none;
 }
 
 #menu h1{
   padding-left: 10%;
-  text-align: center;
   font-weight:400;
   font-size:calc(1.8rem + 3.6vmin);
   margin-bottom:1vh;
